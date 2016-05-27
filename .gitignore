@@ -1,5 +1,6 @@
-# Ignore .js
+# file extensions
 *.js
+*.js.map
 
 # Dependency directories
 node_modules
