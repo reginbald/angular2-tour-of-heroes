@@ -31,3 +31,10 @@ button:disabled {
 * { 
   font-family: Arial, Helvetica, sans-serif; 
 }
+
+button.delete-button{
+  float:right;
+  background-color: gray !important;
+  color:white;
+}
+
